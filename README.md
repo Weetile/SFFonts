@@ -7,4 +7,4 @@ I've included the SF Pro and SF Mono typefaces in this repository.
 # Installation
 
 Either:
-Run the installation script by executing: `./install.sh` or move execute the command `mv ./apple /usr/share/fonts/apple` in the repository directory.
+Run the installation script by executing: `./install.sh` or execute the command `mv ./apple /usr/share/fonts/apple` in the repository directory.
