@@ -2,7 +2,7 @@
 SF Fonts from Apple.
 I've included the SF Pro and SF Mono typefaces in this repository.
 
-![Sample image of Font Manger showing the fonts](https://i.imgur.com/Rs21lUt.png)
+![Sample image of Font Manger showing the fonts](https://i.imgur.com/j1tAIUJ.png)
 
 # Installation
 
